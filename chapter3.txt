@@ -1,10 +1,1 @@
-This is the thirds chapter and it is filled with 3s.
-
-333333333333
-333333333333
-333333333333
-333333333333
-333333333333
-333333333333
-
-Weeeee..... Look how many 333333333333s !!!
+This mofo chapter3.txt is being modified to something more understandable.. like this.. this will now be committed to the master branch..
